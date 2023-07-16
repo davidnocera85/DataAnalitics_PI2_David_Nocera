@@ -26,7 +26,7 @@ Demo: en vivo mediante Google Meet
 
 # <h1 align=center> **`REPORTE DE ANÁLISIS`**  </h1>
 
-## **`Estado del Arte" del sector Telecomunicaciones en Argentina`**
+## **`"Estado del Arte" del sector Telecomunicaciones en Argentina`**
 
 Hace más de un cuarto de siglo, el 8 de abril de 1994, las universidades argentinas se conectaron a Internet, por primera vez, a través de un enlace digital. Si bien para aquella época otros países de la región como Chile, Brasil y México ya tenían acceso, a Argentina, le costó más de 4 años conectarse. El desconocimiento general acerca de la tecnología, la falta de recursos y la ausencia de marcos regulatorios hacían mucho más lento el camino a la conexión en nuestro país.
 Desde el lanzamiento de las primeras conexiones de banda ancha a finales de la década de los ‘90, Argentina se ha convertido en uno de los países con la mayor tasa de penetración de internet en América Latina, con más de tres cuartas partes de su población con acceso a la red de redes. Si bien Argentina se encuentra entre las naciones con más alto índice de penetración de internet fija y móvil de la región, no alcanza el nivel promedio de los países de la Organización para la Cooperación y el Desarrollo -OCDE- (81%).
